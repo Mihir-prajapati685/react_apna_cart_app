@@ -1,0 +1,10 @@
+
+.menu{
+    background-color: yellow;
+    height: 100px;
+    width:100px;
+    left: -100%;
+}
+.active{
+    left :0%;
+}
